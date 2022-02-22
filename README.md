@@ -8,7 +8,7 @@
 
 - I enjoy exploring new technologies and developing software solutions.
 - I'm a recent graduate from York University, studying Computer Science.
-- Currently trying to learn more about Cloud Architecture, and web development.
+- Currently trying to learn more about cloud architecture, and web development.
 
 <h3>Tech Stack</h3>
 
